@@ -1,12 +1,11 @@
-# Full Stack Web Developer 🖥️
-# Designer 🎨
+# Full Stack Web Developer 🖥️ | Designer 🎨
 
 ## About Me
 - I am a Medior Full-Stack Web Developer and Designer with over 7 years of programming experience, focusing primarily on PHP and JavaScript. Throughout my career, I've explored various fields, including mobile applications, PC games, Windows applications, and embedded systems. However, web development has always been the most engaging for me.
 - I have 5 years of experience in PHP and 3 years in Laravel development, with nearly 2 years of professional experience working with Laravel in real-world environments.
 
 ## Connect with me
-[Portfolio](https://samuel-steiner.com) | [Links](https://links.samuel-steiner.com) | [Instagram](https://instagram.com/samuel.programmer) | [LinkedIn](https://linkedin.com/in/samuel-programmer) | [Email](ss.samuel.steiner@gmail.com)
+[Portfolio](https://samuel-steiner.com) | [Links](https://links.samuel-steiner.com) | [Instagram](https://instagram.com/samuel.programmer) | [LinkedIn](https://linkedin.com/in/samuel-programmer)
 
 ## Work Experience
 At work, I participated in several projects created in Laravel, while I was also responsible for the frontend.
