@@ -132,25 +132,25 @@
 <div style="display: flex; justify-content: center; gap: 0.5em;">
   <a
     href="mailto:ss.samuel.steinergmail.com"
-    style="background: #FBD15D; color: #000; font-weight: 600; text-decoration: none; padding: 0.25em 0.5em;"
+    style="background-color: #FBD15D; color: #000; font-weight: 600; text-decoration: none; padding: 0.25em 0.5em;"
   >
     Email
   </a>
   <a
     href="https://samuel-steiner.com"
-    style="background: #24EA48; color: #000; font-weight: 600; text-decoration: none; padding: 0.25em 0.5em;"
+    style="background-color: #24EA48; color: #000; font-weight: 600; text-decoration: none; padding: 0.25em 0.5em;"
   >
     Portfolio
   </a>
   <a
     href="https://www.linkedin.com/in/samuel-programmer"
-    style="background: #3DBBFF; color: #000; font-weight: 600; text-decoration: none; padding: 0.25em 0.5em;"
+    style="background-color: #3DBBFF; color: #000; font-weight: 600; text-decoration: none; padding: 0.25em 0.5em;"
   >
     LinkedIn
   </a>
   <a
     href="https://www.instagram.com/samuel.programmer"
-    style="background: #CC5FEB; color: #000; font-weight: 600; text-decoration: none; padding: 0.25em 0.5em;"
+    style="background-color: #CC5FEB; color: #000; font-weight: 600; text-decoration: none; padding: 0.25em 0.5em;"
   >
     Instagram
   </a>
