@@ -116,15 +116,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <div>
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Developer-Samuel&show_icons=true&theme=github_dark">
-  </div>
-  <div>
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Developer-Samuel&theme=github_dark">
-  </div>
-  <div>
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Developer-Samuel&layout=compact&theme=github_dark">
-  </div>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Developer-Samuel&show_icons=true&theme=github_dark">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Developer-Samuel&theme=github_dark">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Developer-Samuel&layout=compact&theme=github_dark">
 </p>
 
 ---
