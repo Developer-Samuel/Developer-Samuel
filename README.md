@@ -129,15 +129,15 @@
 ## 📬 Connect With Me
 <div align="center">
   <a href="mailto:ss.samuel.steiner@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FBD15D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
+    <img src="https://img.shields.io/badge/Email-FBD15D?style=for-the-badge&logo=gmail&logoColor=black&color=000000" alt="Email">
   </a>
   <a href="https://samuel-steiner.com">
-    <img src="https://img.shields.io/badge/Portfolio-24EA48?style=for-the-badge&logo=appveyor&logoColor=black" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-24EA48?style=for-the-badge&logo=appveyor&logoColor=black&color=000000" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/samuel-programmer">
-    <img src="https://img.shields.io/badge/LinkedIn-3DBBFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-3DBBFF?style=for-the-badge&logo=linkedin&logoColor=white&color=3DBBFF" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/samuel.programmer">
-    <img src="https://img.shields.io/badge/Instagram-CC5FEB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-CC5FEB?style=for-the-badge&logo=instagram&logoColor=black&color=000000" alt="Instagram">
   </a>
 </div>
