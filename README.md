@@ -128,7 +128,7 @@
 
 ## 📬 Connect With Me
 <div align="center">
-  <a href="mailto:ss.samuel.steinergmail.com">
+  <a href="mailto:ss.samuel.steiner@gmail.com">
     <img src="https://img.shields.io/badge/Email-FBD15D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
   </a>
   <a href="https://samuel-steiner.com">
