@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=2000&pause=1500&color=30E942&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Samuel+%C5%A0teiner;%F0%9F%92%BB+Full-Stack+Web+Developer;%E2%9A%A1+Symfony+%26+Laravel">
 </div>
 
