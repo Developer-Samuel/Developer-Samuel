@@ -127,9 +127,17 @@
 ---
 
 ## 📬 Connect With Me
-<p align="center">
-  [![Email](https://img.shields.io/badge/Email-FBD15D?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ss.samuel.steinergmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-24EA48?style=for-the-badge&logo=appveyor&logoColor=black)](https://samuel-steiner.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-3DBBFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-programmer)
-  [![Instagram](https://img.shields.io/badge/Instagram-CC5FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuel.programmer)
-</p>
+<div align="center">
+  <a href="mailto:ss.samuel.steinergmail.com">
+    <img src="https://img.shields.io/badge/Email-FBD15D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
+  </a>
+  <a href="https://samuel-steiner.com">
+    <img src="https://img.shields.io/badge/Portfolio-24EA48?style=for-the-badge&logo=appveyor&logoColor=black" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-programmer">
+    <img src="https://img.shields.io/badge/LinkedIn-3DBBFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/samuel.programmer">
+    <img src="https://img.shields.io/badge/Instagram-CC5FEB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
