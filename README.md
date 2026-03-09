@@ -20,7 +20,7 @@
 
 <table>
   <thead>
-    <tr align="center">
+    <tr>
       <th>🖥️ Backend</th>
       <th>🎨 Frontend</th>
       <th>⚙️ DevOps & CI/CD</th>
@@ -76,7 +76,7 @@
 
 <table>
   <thead>
-    <tr align="center">
+    <tr>
       <th>📡 API & Real-time</th>
       <th>🔐 Security & Performance</th>
       <th>🤖 Productivity & AI</th>
@@ -115,12 +115,13 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; gap: 1em;">
+<div>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Developer-Samuel&show_icons=true&theme=github_dark">
+</div>
+<div>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Developer-Samuel&theme=github_dark">
 </div>
-<br>
-<div align="center">
+<div>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Developer-Samuel&layout=compact&theme=github_dark">
 </div>
 
