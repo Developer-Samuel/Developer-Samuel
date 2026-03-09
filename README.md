@@ -18,98 +18,102 @@
 <img src="https://skillicons.dev/icons?i=php,laravel,symfony,vue,nuxt,typescript,javascript,tailwind,scss,mysql,postgres,redis,docker,git,github,githubactions,ubuntu" />
 <br>
 
-<table>
-  <thead>
-    <tr>
-      <th>🖥️ Backend</th>
-      <th>🎨 Frontend</th>
-      <th>⚙️ DevOps & CI/CD</th>
-      <th>🧪 QA & Code Quality</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="width: 100%;">
-      <td style="vertical-align: top; width: 25%;">
-        PHP<br>
-        Laravel<br>
-        Symfony<br>
-        Python (AI, Browser Automation)<br>
-        MySQL<br>
-        PostgreSQL<br>
-        Redis
-      </td>
-      <td style="vertical-align: top; width: 25%;">
-        JavaScript<br>
-        TypeScript<br>
-        Vue.js<br>
-        Nuxt.js<br>
-        Inertia.js<br>
-        Vite<br>
-        Axios<br>
-        Tailwind CSS<br>
-        SCSS / CSS<br>
-        Blade / Twig
-      </td>
-      <td style="vertical-align: top; width: 25%;">
-        Docker<br>
-        Git / GitHub<br>
-        GitHub Actions<br>
-        Shell / CMD<br>
-        Apache / Nginx
-      </td>
-      <td style="vertical-align: top; width: 25%;">
-        PHPUnit<br>
-        PHPStan / Larastan (max level)<br>
-        Rector<br>
-        PHP CS Fixer<br>
-        Deptrac<br>
-        PHPMD<br>
-        PHPCPD<br>
-        PHPLoc<br>
-        PHPMetrics<br>
-        Vitest<br>
-        ESLint + Prettier<br>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>🖥️ Backend</th>
+        <th>🎨 Frontend</th>
+        <th>⚙️ DevOps & CI/CD</th>
+        <th>🧪 QA & Code Quality</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="width: 100%;">
+        <td style="vertical-align: top; width: 25%;">
+          PHP<br>
+          Laravel<br>
+          Symfony<br>
+          Python (AI, Browser Automation)<br>
+          MySQL<br>
+          PostgreSQL<br>
+          Redis
+        </td>
+        <td style="vertical-align: top; width: 25%;">
+          JavaScript<br>
+          TypeScript<br>
+          Vue.js<br>
+          Nuxt.js<br>
+          Inertia.js<br>
+          Vite<br>
+          Axios<br>
+          Tailwind CSS<br>
+          SCSS / CSS<br>
+          Blade / Twig
+        </td>
+        <td style="vertical-align: top; width: 25%;">
+          Docker<br>
+          Git / GitHub<br>
+          GitHub Actions<br>
+          Shell / CMD<br>
+          Apache / Nginx
+        </td>
+        <td style="vertical-align: top; width: 25%;">
+          PHPUnit<br>
+          PHPStan / Larastan (max level)<br>
+          Rector<br>
+          PHP CS Fixer<br>
+          Deptrac<br>
+          PHPMD<br>
+          PHPCPD<br>
+          PHPLoc<br>
+          PHPMetrics<br>
+          Vitest<br>
+          ESLint + Prettier<br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>📡 API & Real-time</th>
-      <th>🔐 Security & Performance</th>
-      <th>🤖 Productivity & AI</th>
-      <th>📄 Docs / Project Management</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="width: 100%">
-      <td style="vertical-align: top; width: 25%;">
-        REST API<br>
-        GraphQL<br>
-        WebSockets (Echo / Pusher)
-      </td>
-      <td style="vertical-align: top; width: 25%;">
-        HTTPS / SSL / TLS<br>
-        Rate-limiting<br>
-        CSRF / XSS<br>
-        JWT / OAuth2<br>
-        Redis caching
-      </td>
-      <td style="vertical-align: top; width: 25%;">
-        ChatGPT<br>
-        Gemini<br>
-        GitHub Copilot
-      </td>
-      <td style="vertical-align: top; width: 25%;">
-        Markdown<br>
-        Mermaid<br>
-        Jira
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>📡 API & Real-time</th>
+        <th>🔐 Security & Performance</th>
+        <th>🤖 Productivity & AI</th>
+        <th>📄 Docs / Project Management</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="width: 100%">
+        <td style="vertical-align: top; width: 25%;">
+          REST API<br>
+          GraphQL<br>
+          WebSockets (Echo / Pusher)
+        </td>
+        <td style="vertical-align: top; width: 25%;">
+          HTTPS / SSL / TLS<br>
+          Rate-limiting<br>
+          CSRF / XSS<br>
+          JWT / OAuth2<br>
+          Redis caching
+        </td>
+        <td style="vertical-align: top; width: 25%;">
+          ChatGPT<br>
+          Gemini<br>
+          GitHub Copilot
+        </td>
+        <td style="vertical-align: top; width: 25%;">
+          Markdown<br>
+          Mermaid<br>
+          Jira
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</p>
 
 ---
 
