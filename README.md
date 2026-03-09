@@ -135,7 +135,7 @@
     <img src="https://img.shields.io/badge/Portfolio-24EA48?style=for-the-badge&logo=appveyor&logoColor=black" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/samuel-programmer">
-    <img src="https://img.shields.io/badge/LinkedIn-3DBBFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0143F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/samuel.programmer">
     <img src="https://img.shields.io/badge/Instagram-CC5FEB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
