@@ -16,7 +16,7 @@
 ### 🚀 Main Tech
 
 <img src="https://skillicons.dev/icons?i=php,laravel,symfony,vue,nuxt,typescript,javascript,tailwind,scss,mysql,postgres,redis,docker,git,github,githubactions,ubuntu" />
-<br><br>
+<br>
 
 <table>
   <thead>
@@ -115,21 +115,23 @@
 
 ## 📊 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Developer-Samuel&show_icons=true&theme=github_dark">
-</div>
-<div>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Developer-Samuel&theme=github_dark">
-</div>
-<div>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Developer-Samuel&layout=compact&theme=github_dark">
-</div>
+<p align="center">
+  <div>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Developer-Samuel&show_icons=true&theme=github_dark">
+  </div>
+  <div>
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Developer-Samuel&theme=github_dark">
+  </div>
+  <div>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Developer-Samuel&layout=compact&theme=github_dark">
+  </div>
+</p>
 
 ---
 
 ## 📬 Connect With Me
 <br>
-<div style="display: flex; justify-content: center; gap: 0.5em;">
+<p align="center">
   <a
     href="mailto:ss.samuel.steinergmail.com"
     style="background-color: #FBD15D; color: #000; font-weight: 600; text-decoration: none; padding: 0.25em 0.5em;"
@@ -154,4 +156,4 @@
   >
     Instagram
   </a>
-</div>
+</p>
