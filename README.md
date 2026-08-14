@@ -20,8 +20,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C44A?style=for-the-badge&logo=vercel&logoColor=white)](https://samuel-steiner.com)
-[![Links](https://img.shields.io/badge/Links-F97316?style=for-the-badge&logo=linktree&logoColor=white)](https://links.samuel-steiner.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://samuel-steiner.com)
+[![Links](https://img.shields.io/badge/Links-EF4444?style=for-the-badge&logo=linktree&logoColor=white)](https://links.samuel-steiner.com)
 
 </div>
 
@@ -188,11 +188,11 @@ On AI:
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C44A?style=for-the-badge&logo=vercel&logoColor=white)](https://samuel-steiner.com)
-[![Links](https://img.shields.io/badge/Links-F97316?style=for-the-badge&logo=linktree&logoColor=white)](https://links.samuel-steiner.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://samuel-steiner.com)
+[![Links](https://img.shields.io/badge/Links-EF4444?style=for-the-badge&logo=linktree&logoColor=white)](https://links.samuel-steiner.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-programmer)
 [![GitHub](https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=01FF5E)](https://github.com/developer-samuel)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samuel.programmer)
+[![Instagram](https://img.shields.io/badge/Instagram-FB923C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samuel.programmer)
 
 [![Email](https://img.shields.io/badge/info@samuel--steiner.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=01FF5E)](mailto:info@samuel-steiner.com)
 
